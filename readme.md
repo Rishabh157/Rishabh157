@@ -2,7 +2,11 @@
 <p>I'm currently a software engineer at <strong><a href="https://www.codiotic.com/">Codiotic pvt. ltd.</a></strong> and was formerly at <strong><a href="https://www.codiotic.com">Frontend</a></strong> based in 🌁 India. I am working on some side projects, learning a few new dishes, and striving to conquer the frontend world as a fronend developer.</p>
 
 <p style="display:flex;">
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/Rishabhgour157)
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/Rishabhgour157) -->
+<a href="https://www.linkedin.com/in/rishabh-gour-3b0861221/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rishabh._.30/)
 
