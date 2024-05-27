@@ -1,2 +1,2 @@
-* Hello I'm Rishabh
-
+<h2>Hey 👋, I'm <a href="https://rishabh.me/">Rishabh</a></h2>
+<p>I'm currently a software engineer at <strong><a href="https://www.codiotic.com/">Codiotic</a></strong> and formerly at <strong><a href="https://www.codiotic.com">Frontend</a></strong> based in 🌁 India. I am working on some side projects, learning a couple new dishes, and trying to conquer the frontend world as an Fronend developer .</p>
