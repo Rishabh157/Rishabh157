@@ -66,9 +66,9 @@
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
- 
+  -->
    <h3>Where to find me</h3>
   <p>
     <a href="https://github.com/Rishabh157" target="_blank">
