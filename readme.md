@@ -83,7 +83,7 @@
       <img alt="Twitter"
         src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://x.com/Rishabhgour157" target="_blank">
+    <a href="https://www.instagram.com/rishabh._.30/" target="_blank">
       <img alt="Instagram"
         src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
