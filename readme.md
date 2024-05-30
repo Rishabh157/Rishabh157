@@ -87,7 +87,7 @@
   </p>
 
 <h2>⚡️ A Few Quick Facts</h2>
-  <img align="right" height="250px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  <img align="right" height="100px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   <ul>
     <ul>
       <li>🔭 I’m currently working on ERP application and a Mobile application using <strong>React </strong> and
