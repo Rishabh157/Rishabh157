@@ -2,7 +2,6 @@
 <p>I'm currently a software engineer at <strong><a href="https://www.codiotic.com/">Codiotic.</a></strong> and was formerly at <strong><a href="https://www.codiotic.com">Frontend</a></strong> based in <img height="18px" width="25px" src='./flag-icon.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the frontend world as a fronend developer.</p>
 
 <h3>Things I code with</h3>
-
   <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"
@@ -63,81 +62,8 @@
       alt="GitLab Badge">
   </p>
 
-
-
-  
-  - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly
-  random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-  - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-  - 💬 Talk to me about Formula 1 :racing_car:, Memes, Anime, Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
-
-  ### 1. My skills include
-
-<p>
-
-<img title="React js" alt="React js" src="./reactjs.png" width="40" style="vertical-align:down; margin:4px" /> <img title="Redux" alt="Redux" src="./redux-original.svg" width="40" style="vertical-align:down; margin:4px" /> <img title="TypeScript" alt="TypeScript" src="./typescript.png" width="40"
-      style="vertical-align:down; margin:4px" />  <img title="javascript" alt="Javascript" src="./javascript.png" width="40"
-      style="vertical-align:down; margin:4px" />  <img title="Next js" alt="Next js" src="./next-js.svg" width="40" style="vertical-align:down; margin:4px" />  <img title="Nodejs" alt="Nodejs" src="./images/nodejs.svg" width="40" style="vertical-align:down; margin:4px" />  <img title="Expressjs" alt="Expressjs" src="./images/express.svg" width="40"
-      style="vertical-align:down; margin:4px" />  <img title="Mongodb" alt="Mongodb" src="./images/mongodb.svg" width="40" style="vertical-align:down; margin:4px" />  <img title="Redis" alt="Redis" src="./images/redis.svg" width="40" style="vertical-align:down; margin:4px" />  <img title="MySql" alt="MySql" src="./images/mysql.svg" width="40" style="vertical-align:down; margin:4px" />  <img title="SQL" alt="SQL" src="./images/sql.svg" width="40" style="vertical-align:down; margin:4px" /><img title="Tailwind" alt="Tailwind" src="./tailwind-css.svg" width="40" style="vertical-align:down; margin:4px" /><img title="Html5" alt="Html5" src="./html5.svg" width="40" style="vertical-align:down; margin:4px" /><img title="css" alt="css" src="./css-3.svg" width="28" style="vertical-align:down; margin:4px" />
-
-
-<img title="Hadoop" alt="Hadoop"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70"
-      height="40" style="vertical-align:down; margin:4px" />
-<img title="Spark" alt="Spark"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80"
-      height="50" style="vertical-align:down; margin:4px" />
-<img title="AWS" alt="AWS"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60"
-      height="40" style="vertical-align:down; margin:4px" />
-<img title="Scala" alt="Scala"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40"
-      height="40" style="vertical-align:down; margin:4px" />
-<img title="Python" alt="Python"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40"
-      height="40" style="vertical-align:down; margin:4px" />
-<img title="R" alt="linux"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55"
-      style="vertical-align:down; margin:4px" />
-<img title="MySQL" alt="MySQL"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40"
-      height="40" style="vertical-align:down; margin:4px" />
-<img title="Bitbucket" alt="Bitbucket"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40"
-      style="vertical-align:down; margin:4px" />
-<img title="Git" alt="Git"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70"
-      height="40" style="vertical-align:down; margin:4px" />
-<img title="Bamboo" alt="Bamboo"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40"
-      height="40" style="vertical-align:down; margin:4px" />
-<img title="jira" alt="linux"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40"
-      style="vertical-align:down; margin:4px" />
-<img title="Kafka" alt="Kafka"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105"
-      height="40" />
-<img title="linux" alt="linux"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40"
-      style="vertical-align:down; margin:4px" />
-    
-<img title="Tableau" alt="Tableau"
-      src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200"
-      style="vertical-align:down; margin:4px" />
-  </p>
-
-
- 
-
-
- <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
-
    <h3>Where to find me</h3>
   <p>
-    <a href="https://github.com/Rishabh157" target="_blank">
-      <img alt="Github"
-        src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/rishabh-gour-3b0861221/" target="_blank">
       <img alt="LinkedIn"
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -146,17 +72,21 @@
       <img alt="Twitter"
         src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/rishabh._.30/" target="_blank">
-      <img alt="Instagram"
-        src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <a href="https://github.com/Rishabh157" target="_blank">
+      <img alt="Github"
+        src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a>
     <a href="mailto:rishabhgour157@gmail.com" target="_blank">
       <img alt="DevTo Badge"
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
+    <a href="https://www.instagram.com/rishabh._.30/" target="_blank">
+      <img alt="Instagram"
+        src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
   </p>
 
-    <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
+    <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
