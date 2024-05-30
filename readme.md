@@ -62,7 +62,30 @@
       alt="GitLab Badge">
   </p>
 
-   <h3>Where to find me</h3>
+<h2>⚡️ A Few Quick Facts</h2>
+  <img align="right" height="150px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  <ul>
+    <ul>
+      <li>🔭 I’m currently working on ERP application and a Mobile application using <strong>React </strong> and
+        <strong> React Native</strong>.
+      </li>
+      <li>🧐 Currently learning <strong>Data Structure</strong> and <strong>Algoritham</strong> using Python and
+        Javascript.
+      </li>
+      <li>🚀 My ultimate ambition is to transition into the role of a <strong>Machine Learning </strong> engineer.</li>
+      <!-- <li>🧐 Currently learning about <strong>Machine Learning</strong> and <strong>Data Science</strong> using Python.
+      </li> -->
+      <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Rishabh157">GitHub</a>. I embarked on
+        my coding journey here.</li>
+      <li>💬 Ping me about <strong>React </strong> and <strong>Machine learning </strong> stuff.</li>
+      <!-- <li>📙 Check out my <a href="#">resume</a>.</li> -->
+      </li>
+      <li>🎉 Fun Fact: Ich kann auch Deutsch sprechen.</li>
+    </ul>
+  </ul>
+
+  <hr />
+    <h3>Where to find me</h3>
   <p>
     <a href="https://www.linkedin.com/in/rishabh-gour-3b0861221/" target="_blank">
       <img alt="LinkedIn"
@@ -86,25 +109,4 @@
     </a>
   </p>
 
-<h2>⚡️ A Few Quick Facts</h2>
-  <img align="right" height="150px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-  <ul>
-    <ul>
-      <li>🔭 I’m currently working on ERP application and a Mobile application using <strong>React </strong> and
-        <strong> React Native</strong>.
-      </li>
-      <li>🧐 Currently learning <strong>Data Structure</strong> and <strong>Algoritham</strong> using Python and
-        Javascript.
-      </li>
-      <li>🚀 My ultimate ambition is to transition into the role of a <strong>Machine Learning </strong> engineer.</li>
-      <!-- <li>🧐 Currently learning about <strong>Machine Learning</strong> and <strong>Data Science</strong> using Python.
-      </li> -->
-      <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Rishabh157">GitHub</a>. I embarked on
-        my coding journey here.</li>
-      <li>💬 Ping me about <strong>React </strong> and <strong>Machine learning </strong> stuff.</li>
-      <!-- <li>📙 Check out my <a href="#">resume</a>.</li> -->
-      </li>
-      <li>🎉 Fun Fact: Ich kann auch Deutsch sprechen.</li>
-    </ul>
-  </ul>
 
