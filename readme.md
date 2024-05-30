@@ -1,4 +1,4 @@
-<h2 style="display: flex; align-items: end; gap: 4px;"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey , I'm <a href="https://rishabh.me/">Rishabh</a></h2>
+<h2 align="end"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey , I'm <a href="https://rishabh.me/">Rishabh</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://www.codiotic.com/">Codiotic</a></strong> and was formerly at <strong><a href="https://www.codiotic.com">Frontend</a></strong> based in <img height="18px" width="25px" src='.//images/flag-icon.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the frontend world as a fronend developer.</p>
 
 <h3>Things I code with</h3>
