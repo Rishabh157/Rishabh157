@@ -86,17 +86,25 @@
     </a>
   </p>
 
-  <h2>⚡️ A Few Quick Facts</h2>
-   <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+  <img align="right" height="250px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-    <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of
-      <strong>ML</strong>.
-    </li>
-    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-    <li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-    <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-    <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-    <li>🎉 Fun Fact: Ich kann auch Deutsch sprechen.</li>
+    <ul>
+      <li>🔭 I’m currently working on ERP application and a Mobile application using <strong>React </strong> and
+        <strong> React Native</strong>.
+      </li>
+      <li>🧐 Currently learning <strong>Data Structure</strong> and <strong>Algoritham</strong> using Python and
+        Javascript.
+      </li>
+      <li>🚀 My ultimate ambition is to transition into the role of a <strong>Machine Learning </strong> engineer.</li>
+      <!-- <li>🧐 Currently learning about <strong>Machine Learning</strong> and <strong>Data Science</strong> using Python.
+      </li> -->
+      <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Rishabh157">GitHub</a>. I embarked on
+        my coding journey here.</li>
+      <li>💬 Ping me about <strong>React </strong> and <strong>Machine learning </strong> stuff.</li>
+      <!-- <li>📙 Check out my <a href="#">resume</a>.</li> -->
+      </li>
+      <li>🎉 Fun Fact: Ich kann auch Deutsch sprechen.</li>
+    </ul>
   </ul>
 
