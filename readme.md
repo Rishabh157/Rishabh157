@@ -77,67 +77,68 @@
 
  <img title="React js" alt="React js" src="./reactjs.png" width="40" style="vertical-align:down; margin:4px" />
 
-    <img title="Redux" alt="Redux" src="./redux-original.svg" width="40" style="vertical-align:down; margin:4px" />
+<img title="Redux" alt="Redux" src="./redux-original.svg" width="40" style="vertical-align:down; margin:4px" />
 
-    <img title="TypeScript" alt="TypeScript" src="./typescript.png" width="40"
+<img title="TypeScript" alt="TypeScript" src="./typescript.png" width="40"
       style="vertical-align:down; margin:4px" />
 
-    <img title="javascript" alt="Javascript" src="./javascript.png" width="40"
+<img title="javascript" alt="Javascript" src="./javascript.png" width="40"
       style="vertical-align:down; margin:4px" />
 
-    <img title="Next js" alt="Next js" src="./next-js.svg" width="40" style="vertical-align:down; margin:4px" />
-    <img title="Nodejs" alt="Nodejs" src="./images/nodejs.svg" width="40" style="vertical-align:down; margin:4px" />
-    <img title="Expressjs" alt="Expressjs" src="./images/express.svg" width="40"
+<img title="Next js" alt="Next js" src="./next-js.svg" width="40" style="vertical-align:down; margin:4px" />
+<img title="Nodejs" alt="Nodejs" src="./images/nodejs.svg" width="40" style="vertical-align:down; margin:4px" />
+<img title="Expressjs" alt="Expressjs" src="./images/express.svg" width="40"
       style="vertical-align:down; margin:4px" />
-    <img title="Mongodb" alt="Mongodb" src="./images/mongodb.svg" width="40" style="vertical-align:down; margin:4px" />
-    <img title="Redis" alt="Redis" src="./images/redis.svg" width="40" style="vertical-align:down; margin:4px" />
-    <img title="MySql" alt="MySql" src="./images/mysql.svg" width="40" style="vertical-align:down; margin:4px" />
-    <img title="SQL" alt="SQL" src="./images/sql.svg" width="40" style="vertical-align:down; margin:4px" />
-    <img title="Tailwind" alt="Tailwind" src="./tailwind-css.svg" width="40" style="vertical-align:down; margin:4px" />
-    <img title="Html5" alt="Html5" src="./html5.svg" width="40" style="vertical-align:down; margin:4px" />
-    <img title="css" alt="css" src="./css-3.svg" width="28" style="vertical-align:down; margin:4px" />
+<img title="Mongodb" alt="Mongodb" src="./images/mongodb.svg" width="40" style="vertical-align:down; margin:4px" />
+<img title="Redis" alt="Redis" src="./images/redis.svg" width="40" style="vertical-align:down; margin:4px" />
+<img title="MySql" alt="MySql" src="./images/mysql.svg" width="40" style="vertical-align:down; margin:4px" />
+<img title="SQL" alt="SQL" src="./images/sql.svg" width="40" style="vertical-align:down; margin:4px" />
+<img title="Tailwind" alt="Tailwind" src="./tailwind-css.svg" width="40" style="vertical-align:down; margin:4px" />
+<img title="Html5" alt="Html5" src="./html5.svg" width="40" style="vertical-align:down; margin:4px" />
+<img title="css" alt="css" src="./css-3.svg" width="28" style="vertical-align:down; margin:4px" />
 
 
-    <img title="Hadoop" alt="Hadoop"
+<img title="Hadoop" alt="Hadoop"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70"
       height="40" style="vertical-align:down; margin:4px" />
-    <img title="Spark" alt="Spark"
+<img title="Spark" alt="Spark"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80"
       height="50" style="vertical-align:down; margin:4px" />
-    <img title="AWS" alt="AWS"
+<img title="AWS" alt="AWS"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60"
       height="40" style="vertical-align:down; margin:4px" />
-    <img title="Scala" alt="Scala"
+<img title="Scala" alt="Scala"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40"
       height="40" style="vertical-align:down; margin:4px" />
-    <img title="Python" alt="Python"
+<img title="Python" alt="Python"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40"
       height="40" style="vertical-align:down; margin:4px" />
-    <img title="R" alt="linux"
+<img title="R" alt="linux"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55"
       style="vertical-align:down; margin:4px" />
-    <img title="MySQL" alt="MySQL"
+<img title="MySQL" alt="MySQL"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40"
       height="40" style="vertical-align:down; margin:4px" />
-    <img title="Bitbucket" alt="Bitbucket"
+<img title="Bitbucket" alt="Bitbucket"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40"
       style="vertical-align:down; margin:4px" />
-    <img title="Git" alt="Git"
+<img title="Git" alt="Git"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70"
       height="40" style="vertical-align:down; margin:4px" />
-    <img title="Bamboo" alt="Bamboo"
+<img title="Bamboo" alt="Bamboo"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40"
       height="40" style="vertical-align:down; margin:4px" />
-    <img title="jira" alt="linux"
+<img title="jira" alt="linux"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40"
       style="vertical-align:down; margin:4px" />
-    <img title="Kafka" alt="Kafka"
+<img title="Kafka" alt="Kafka"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105"
       height="40" />
-    <img title="linux" alt="linux"
+<img title="linux" alt="linux"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40"
       style="vertical-align:down; margin:4px" />
-    <img title="Tableau" alt="Tableau"
+    
+<img title="Tableau" alt="Tableau"
       src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200"
       style="vertical-align:down; margin:4px" />
   </p>
