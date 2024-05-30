@@ -85,7 +85,13 @@
   </ul>
 
   <hr />
-    <h3 align="center">Where to find me</h3>
+    <h3 align="center">
+    Where to find me
+     <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+       <br>
+     <i>You miss 100% of the shots you don't take.</i>
+   <br>
+    </h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/rishabh-gour-3b0861221/" target="_blank">
       <img alt="LinkedIn"
