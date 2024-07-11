@@ -83,7 +83,7 @@
         my coding journey here.</li>
       <li>💬 Ping me about <strong>React </strong> and <strong>Machine learning </strong> stuff.</li>
       </li>
-      <li>📙 Check out my <a href="/resume.pdf">resume</a>.</li>
+      <li>📙 Check out my <a download href="./assets/resume.pdf">resume</a>.</li>
       <li>🎉 Fun Fact: Ich kann auch Deutsch sprechen.</li>
     </ul>
   </ul>
