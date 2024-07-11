@@ -3,7 +3,7 @@
  Hey , I'm <a href="https://rishabh.me/">Rishabh</a>
 </h2>
 
-<p>I'm currently a software engineer at <strong><a href="https://www.codiotic.com/">Codiotic</a></strong> and was formerly at <strong>Full-stack</strong> based in <img height="18px" width="25px" src='.//images/flag-icon.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the frontend world as a fronend developer.</p>
+<p>I'm currently a software engineer at <strong><a href="https://www.codiotic.com/">Codiotic</a></strong> and was formerly at <strong>Full Stack</strong> based in <img height="18px" width="25px" src='.//images/flag-icon.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the tech world as a Full-stack developer.</p>
 
 <h3>Things I code with</h3>
   <p>
