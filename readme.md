@@ -5,7 +5,7 @@
 
 <p>I'm currently a software engineer at <strong><a href="https://www.codiotic.com/">Codiotic</a></strong> and was formerly a <strong>Full Stack Engineer</strong> based in <img height="18px" width="25px" src='./images/flag-icon.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the tech world as a Full Stack Engineer.</p>
 
-<h3>Things I code with</h3>
+<h3>Things I code with -</h3>
   <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"
