@@ -73,8 +73,8 @@
       <li>🔭 I’m currently working on ERP application and a Mobile application using <strong>React </strong> and
         <strong> React Native</strong>.
       </li>
-      <li>🧐 Currently learning <strong>Data Structure</strong> and <strong>Algoritham</strong> using Python and
-        Javascript.
+      <li>🧐 Currently learning <strong>Data Structure</strong> and <strong>Algoritham</strong> using <strong>Python</strong> and
+        <strong>Javascript</strong>.
       </li>
       <li>🚀 My ultimate ambition is to transition into the role of a <strong>Machine Learning </strong> engineer.</li>
       <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Rishabh157">GitHub</a>. I embarked on
