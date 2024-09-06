@@ -79,7 +79,7 @@
       <li>🚀 My ultimate ambition is to transition into the role of a <strong>Machine Learning </strong> engineer.</li>
       <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Rishabh157">GitHub</a>. I embarked on
         my coding journey here.</li>
-      <li>💬 Ping me about <strong>React </strong> and <strong>Machine learning </strong> stuff.</li>
+      <li>💬 Ping me about <strong>React  </strong> and <strong>Machine learning </strong> stuff.</li>
       </li>
       <li>📙 Check out my <a download href="https://github.com/Rishabh157/Rishabh157/blob/main/assets/resume.pdf">resume</a>.</li>
       <li>🎉 Fun Fact: Ich kann auch Deutsch sprechen.</li>
