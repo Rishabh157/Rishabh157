@@ -82,7 +82,7 @@
       <li>💬 Ping me about <strong>React  </strong> and <strong>Machine learning </strong> stuff.</li>
       </li>
       <li>📙 Check out my <a download href="https://github.com/Rishabh157/Rishabh157/blob/main/assets/resume.pdf">resume</a>.</li>
-      <li>🎉 Fun Fact: Ich kann auch Deutsch sprechen.</li>
+      <li>🎉 Fun Fact: Ich kann auch Deutsch sprechen</li>
     </ul>
   </ul>
 
