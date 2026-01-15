@@ -83,7 +83,7 @@ You can find more about my work here:
 
   <li>💬 Happy to discuss topics related to <strong>React</strong>, frontend development, and building AI-enhanced applications.</li>
 
-  <li>📄 You can find my resume <a download href="https://github.com/Rishabh157/Rishabh157/blob/main/assets/resume.pdf">here</a>.</li>
+  <li>📄 You can find my resume <a download href="https://github.com/Rishabh157/Rishabh157/blob/main/resume.pdf">here</a>.</li>
 
   <li>🎉 Fun fact: I can also speak a bit of German 🇩🇪</li>
 </ul>
@@ -121,6 +121,7 @@ You can find more about my work here:
         src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
   </p>
+
 
 
 
