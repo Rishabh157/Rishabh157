@@ -3,7 +3,15 @@
  Hey , I'm <a href="https://rishabh.me/">Rishabh</a>
 </h2>
 
-<p>I'm currently a software engineer at <strong><a href="https://www.codiotic.com/">Codiotic</a></strong> and was formerly a <strong>Full Stack Engineer</strong> based in <img height="18px" width="25px" src='./images/flag-icon.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the tech world as a Full Stack Engineer.</p>
+<p>
+I’m currently working as a Software Engineer at 
+<strong><a href="https://www.provista.com/">Provista</a></strong>. 
+Before this, I worked as a Full Stack Engineer at 
+<strong><a href="https://www.codiotic.com/">Codiotic</a></strong>, based in 
+<img height="18px" width="25px" src="./images/flag-icon.png" alt="india-flag"> India.
+Outside of work, I build side projects, experiment with new ideas, and continuously improve my skills in full-stack development while looking for opportunities to work on impactful, scalable products.
+</p>
+
 
 <h3>Things I code with -</h3>
   <p>
@@ -118,5 +126,6 @@
         src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
   </p>
+
 
 
