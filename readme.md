@@ -74,23 +74,20 @@ You can find more about my work here:
 
 <h2>⚡️ A Few Quick Facts</h2>
   <img align="right" height="150px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-  <ul>
-    <ul>
-      <li>🔭 I’m currently working on ERP application and a Mobile application using <strong>React </strong> and
-        <strong> React Native</strong>.
-      </li>
-      <li>🧐 Currently learning <strong>Data Structure</strong> and <strong>Algoritham</strong> using <strong>Python</strong> and
-        <strong>Javascript</strong>.
-      </li>
-      <li>🚀 My ultimate ambition is to transition into the role of a <strong>Machine Learning </strong> engineer.</li>
-      <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Rishabh157">GitHub</a>. I embarked on
-        my coding journey here.</li>
-      <li>💬 Ping me about <strong>React  </strong> and <strong>Machine learning </strong> stuff.</li>
-      </li>
-      <li>📙 Check out my <a download href="https://github.com/Rishabh157/Rishabh157/blob/main/assets/resume.pdf">resume</a>.</li>
-      <li>🎉 Fun Fact: Ich kann auch Deutsch sprechen</li>
-    </ul>
-  </ul>
+<ul>
+  <li>🔭 Currently working on an ERP system and a mobile application using <strong>React</strong> and <strong>React Native</strong>.</li>
+
+  <li>🤖 Exploring how <strong>AI-powered tools</strong> can be integrated into modern web and mobile applications to improve user experience and productivity.</li>
+
+  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Rishabh157">GitHub</a>, where I share my development work and experiments.</li>
+
+  <li>💬 Happy to discuss topics related to <strong>React</strong>, frontend development, and building AI-enhanced applications.</li>
+
+  <li>📄 You can find my resume <a download href="https://github.com/Rishabh157/Rishabh157/blob/main/assets/resume.pdf">here</a>.</li>
+
+  <li>🎉 Fun fact: I can also speak a bit of German 🇩🇪</li>
+</ul>
+
 
   <hr />
     <h3 align="center">
@@ -124,6 +121,7 @@ You can find more about my work here:
         src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
   </p>
+
 
 
 
