@@ -3,10 +3,26 @@
  Hey , I'm <a href="https://rishabh.me/">Rishabh</a>
 </h2>
 
-I'm currently working as a Full Stack Engineer at Provista. Before this, I worked as a Frontend Software Developer at Codiotic, based in <img height="18px" width="25px" src="./images/flag-icon.png" alt="india-flag"> India.
-I've had the opportunity to build products across diverse domains including BioTech, E-commerce, EdTech, CRM & ERP, Management Software, FinTech, Healthcare & MedTech, Real Estate & PropTech, and SaaS Platforms.
-Outside of work, I build side projects, experiment with new ideas, and continuously improve my skills in full-stack development while looking for opportunities to work on impactful, scalable products.
-You can find more about my work here: rishabhgour.com
+<p>
+  I'm currently working as a <strong>Full Stack Engineer</strong> at 
+  <strong><a href="https://provista.in/">Provista</a></strong>. 
+  Before this, I worked as a <strong>Frontend Software Developer</strong> at 
+  <strong><a href="https://www.codiotic.com/">Codiotic</a></strong>, based in 
+  <img height="18px" width="25px" src="./images/flag-icon.png" alt="india-flag"> India.
+  <br/><br/>
+  I've had the opportunity to build products across diverse domains including 
+  <strong>BioTech</strong>, <strong>E-commerce</strong>, <strong>EdTech</strong>, 
+  <strong>CRM &amp; ERP</strong>, <strong>Management Software</strong>, 
+  <strong>FinTech</strong>, <strong>Healthcare &amp; MedTech</strong>, 
+  <strong>Real Estate &amp; PropTech</strong>, and <strong>SaaS Platforms</strong>.
+  <br/><br/>
+  Outside of work, I build side projects, experiment with new ideas, and continuously 
+  improve my skills in full-stack development while looking for opportunities to work 
+  on impactful, scalable products.
+  <br/><br/>
+  You can find more about my work here: 
+  <strong><a href="https://portfolio-xi-tawny-82.vercel.app/">rishabhgour.com</a></strong>
+</p>
 
 <!-- <p> I’m currently working as a <strong>React.js Developer</strong> at <strong><a href="https://provista.in/">Provista</a></strong>. Before this, I worked as a <strong>Full Stack Developer</strong> at 
 <strong><a href="https://www.codiotic.com/">Codiotic</a></strong>, based in 
