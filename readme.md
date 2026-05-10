@@ -95,7 +95,7 @@
 
   <li>💬 Happy to discuss topics related to <strong>React</strong>, frontend development, and building AI-enhanced applications.</li>
 
-  <li>📄 You can find my resume <a download href="https://github.com/Rishabh157/Rishabh157/blob/main/rishabh-resume.pdf">here</a>.</li>
+  <li>📄 You can find my resume <a download href="https://github.com/Rishabh157/Rishabh157/blob/main/Rishabh-Gour-Resume.pdf">here</a>.</li>
 
   <li>🎉 Fun fact: I can also speak a bit of German 🇩🇪</li>
 </ul>
