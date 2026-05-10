@@ -112,7 +112,7 @@
     </p>
     
   <p align="center">
-    <a href="https://www.linkedin.com/in/rishabh-gour-3b0861221/" target="_blank">
+    <a href="https://www.linkedin.com/in/rishabh157/" target="_blank">
       <img alt="LinkedIn"
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
